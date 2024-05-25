@@ -4,7 +4,7 @@
 
 Write a CoolPlacesNearMe class that does the following:
 
-1.Accepts:
+1. Accepts:
 ● json with location coordinates;
 ● takes a base point: the problem defines a point with coordinates: 48.471207, 35.038810;
 ● accepts the search radius in km;
